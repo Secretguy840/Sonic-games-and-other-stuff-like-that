@@ -1,0 +1,9 @@
+
+---
+
+### **How to Expand**  
+1. **More Actions**: Add `"attack"` or `"transform"` (for Super Sonic).  
+2. **Zones**: Use a dictionary to track zones and their hazards.  
+3. **Graphics**: Use `pygame` for a simple 2D version.  
+
+Would you like me to adapt this for another language (e.g., JavaScript) or add more complex mechanics? 🎮
